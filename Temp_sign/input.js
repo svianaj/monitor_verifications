@@ -17,8 +17,8 @@ t[4] = ['Temperature','Dew point T','Wind speed','Wind direction','Geopotential'
 v[5] = ['925','850','700','500','300','200','150','100','50']
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL','cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL_forest','cy46h_SURFEX_offline_SamuelPR_cy46h_sfxoff_SamPR_RSL_lowvegoff']
-t[6] = ['cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL','cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL_forest','cy46h_SURFEX_offline_SamuelPR_cy46h_sfxoff_SamPR_RSL_lowvegoff']
+v[6] = ['SamuelPR_SamuelPR_RSL','SamuelPR_SamuelPR_RSL_forest','SamuelPR_SamPR_RSL_lowvegoff']
+t[6] = ['SamuelPR_SamuelPR_RSL','SamuelPR_SamuelPR_RSL_forest','SamuelPR_SamPR_RSL_lowvegoff']
 v[7] = ['ALL','00','12'] ;
 t[7] = v[7] ;
 

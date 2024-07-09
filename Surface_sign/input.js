@@ -17,8 +17,8 @@ t[4] = ['Mslp','U10m','Max Wind Gust','Wind direction','T2m','T2m, height corr.'
 v[5] = [0]
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL','cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL_forest','cy46h_SURFEX_offline_SamuelPR_cy46h_sfxoff_SamPR_RSL_lowvegoff']
-t[6] = ['cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL','cy46h_SURFEX_offline_SamuelPR_cy46h_SURFEX_offline_SamuelPR_RSL_forest','cy46h_SURFEX_offline_SamuelPR_cy46h_sfxoff_SamPR_RSL_lowvegoff']
+v[6] = ['SamuelPR_SamuelPR_RSL','SamuelPR_SamuelPR_RSL_forest','SamuelPR_SamPR_RSL_lowvegoff']
+t[6] = ['SamuelPR_SamuelPR_RSL','SamuelPR_SamuelPR_RSL_forest','SamuelPR_SamPR_RSL_lowvegoff']
 v[7] = ['ALL'] ;
 t[7] = v[7] ;
 
